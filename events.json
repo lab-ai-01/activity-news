@@ -1,1 +1,74 @@
-[]
+[
+ {
+  "description": "講者：好好玩旅行社帶隊人員（破冰活動主持）。費用：電洽（成團後通知繳費）。報名截止：2026-09-24 00:00。集合：18:40烤肉店集合，19:00開始。主辦：好好玩旅行社。洽詢：07-9743890。",
+  "end": "2026-09-25T21:00:00+08:00",
+  "location": "高雄市烤肉店集合（行前通知集合地點）",
+  "start": "2026-09-25T19:00:00+08:00",
+  "title": "中秋限定多對多烤肉聚會（高雄場）",
+  "url": "https://www.singleparty.com.tw/eventdetail.asp?id=18377",
+  "id": "6bd68f1ce866",
+  "free": false,
+  "added": "2026-09-21",
+  "img": "https://www.singleparty.com.tw/assets/images/og_index.jpg"
+ },
+ {
+  "description": "講者：林玉茹（中央研究院臺灣史研究所研究員）。費用：免費報名，每場限100人。報名截止：隨時（額滿為止，報名網址 forms.gle/ecy7W5YpYDTeKz8y6）。主辦：臺南市政府文化局、南瀛國際人文社會科學研究中心。聯絡：06-6324453 方小姐。",
+  "end": "2026-10-03T16:00:00+08:00",
+  "location": "王育德紀念館 台南市中西區民權路二段30號",
+  "start": "2026-10-03T14:00:00+08:00",
+  "title": "臺灣文化大學週末講座：中日帝國勢力下的商業韌性",
+  "url": "https://culture.tainan.gov.tw/theme/latestevent/Details?Parser=9%2C48%2C325%2C317%2C%2C%2C22944",
+  "id": "288ac1075d5e",
+  "free": true,
+  "added": "2026-09-21",
+  "img": "https://culture.tainan.gov.tw/images/img.jpg"
+ },
+ {
+  "description": "講者：愛焙克。費用：800元/組（每組最多3人）。報名截止：2026-09-29 23:59（正取9/24前繳費）。地點：臺南市立圖書館新總館B1城市灶咖。需自帶保鮮盒。主辦：臺南市立圖書館。",
+  "end": "2026-10-04T16:30:00+08:00",
+  "location": "臺南市立圖書館新總館B1城市灶咖 台南市永康區康橋大道255號",
+  "start": "2026-10-04T13:30:00+08:00",
+  "title": "2026年城市灶咖：巴西派對巧克力繪圖餅乾",
+  "url": "https://www.tnpl.tn.edu.tw/za5533325851264362484/ActivityContent",
+  "id": "0d6d2da61b1e",
+  "free": false,
+  "added": "2026-09-21",
+  "img": "https://www.tnpl.tn.edu.tw/za5533325851264362484/https%3a%2f%2fwww.tnpl.tn.edu.tw%2fimages%2flogo%2fogImage.jpg"
+ },
+ {
+  "description": "講者：班傑明（台灣犯罪作家聯會）。費用：免費（已額滿，備取滿）。報名截止：2026-10-15 23:59。主題書目：橫山秀夫《臨場》。主辦：臺南市立圖書館×台灣犯罪作家聯會。",
+  "end": "2026-10-17T16:00:00+08:00",
+  "location": "臺南市立圖書館新總館4F手作教室 台南市永康區康橋大道255號",
+  "start": "2026-10-17T14:00:00+08:00",
+  "title": "解謎相談室Chapter 8：親臨死亡現場",
+  "url": "https://www.tnpl.tn.edu.tw/za5634418115006415015/ActivityContent",
+  "id": "c5c92b2ceaff",
+  "free": true,
+  "added": "2026-09-21",
+  "img": "https://www.tnpl.tn.edu.tw/za5634418115006415015/https%3a%2f%2fwww.tnpl.tn.edu.tw%2fimages%2flogo%2fogImage.jpg"
+ },
+ {
+  "description": "講者：好好玩旅行社帶隊人員。費用：電洽（成團後通知繳費）。報名截止：2026-10-11 00:00。集合：河樂廣場，午茶於約會專家台南會館。主辦：好好玩旅行社。",
+  "end": "2026-10-18T16:30:00+08:00",
+  "location": "河樂廣場 台南市中西區中正路343-20號",
+  "start": "2026-10-18T13:30:00+08:00",
+  "title": "Pik戀愛探索隊：一起散步到喜歡你台南場",
+  "url": "https://www.singleparty.com.tw/eventdetail.asp?id=18453",
+  "id": "6f99fcbf82be",
+  "free": false,
+  "added": "2026-09-21",
+  "img": "https://www.singleparty.com.tw/assets/images/og_index.jpg"
+ },
+ {
+  "description": "講者：王瑞斌院長（尚鴻牙醫診所）。費用：免費（已額滿）。報名截止：2026-09-20 23:59（已截止，候補現場排隊）。主辦：臺南市立圖書館新總館。",
+  "end": "2026-10-18T16:00:00+08:00",
+  "location": "臺南市立圖書館新總館6F拾光講堂 台南市永康區康橋大道255號",
+  "start": "2026-10-18T14:00:00+08:00",
+  "title": "芳鄰講座：牙齒治療時常見的疑惑",
+  "url": "https://www.tnpl.tn.edu.tw/za5076174141175810948/ActivityContent",
+  "id": "589685b59960",
+  "free": true,
+  "added": "2026-09-21",
+  "img": "https://www.tnpl.tn.edu.tw/za5076174141175810948/https%3a%2f%2fwww.tnpl.tn.edu.tw%2fimages%2flogo%2fogImage.jpg"
+ }
+]
